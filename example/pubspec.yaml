@@ -1,0 +1,61 @@
+name: open_document_example
+description: Demonstrates how to use the open_document plugin.
+homepage: https://github.com/fabio21/open_document.git
+repository: https://github.com/fabio21/open_document.git
+version: 0.0.1
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  open_document:
+    path: ../
+
+  cupertino_icons: ^1.0.5
+  dio: ^5.2.1+1
+  permission_handler: ^10.4.2
+ #  wakelock: ^0.6.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
